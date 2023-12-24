@@ -1,0 +1,28 @@
+<html language=en>
+    <head>
+        <title>Leighton evans</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="discription" content="applying style sheet in the page>
+        <meta name="author"  content="Mahima">
+        <style>
+        div {
+             display:block;
+        }
+        </style>
+    </head>
+    <body>
+             <div
+              <div style="background-color: rgba(7, 231, 247, 0.918);">
+              <h1 style="color: white","text-align:center;">LEIGHTON EVANS</h1>
+                <p style="color:rgba(5, 1, 26, 0.904)">
+                     Diego,CA92111+H:555 555 555-C:(555)555 5555 example@example.com</p>
+            
+              </div>
+            </div>
+            <h2><strong>PROFESSIONAL SUMMARY</strong></h2>   
+            <p>Goal-oriented warehouse manager with 13 years of distibution industry experience focused on delivering practical strategys to drive productivity,personnel retainment and process efficiency.Excelient skils
+               ouerseeing warehouse operations,data management and logistics tomeet business needs.well-coordinated and decisive leader with expertise in program managegement,team building andoperational optimization.</p>
+               <h2><strong>Work HISTORY<strong</h2>
+               <h5>Warehouse Manager</h5>
+               <strong >worldwide Logistics</srtong>-san Dingo,CA<!DOCTYPE HTML>
