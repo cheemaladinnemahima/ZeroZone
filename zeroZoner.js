@@ -43,9 +43,9 @@ _userCollection.insertMany([
 }]).then(()=>{console.log("Users inserted successfully")});
 
 //delete one user//
-let name=new ObjectId("65b248c50a25e3c9295ae50d");
+let id=new ObjectId("65b248c50a25e3c9295ae50d");
 
-_userCollection.deleteOne({name:name}).then(()=>{
+_userCollection.deleteOne({_id:id}).then(()=>{
     console.log(" Users deleted successfully");
 }).catch(error=>{
     console.log(error);
